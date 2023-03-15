@@ -1,0 +1,84 @@
+<root>
+    <category name="Science" id="sci" >
+        <category name="Chemistry" id="sci-1">
+            <category name="Bio Chemistry" id="sci-1-1"/>
+            <category name="Inorganic Chemistry" id="sci-1-2"/>
+            <category name="Physical Chemistry" id="sci-1-3"/>
+            <category name="Analytical Chemistry" id="sci-1-4"/>
+        </category>
+        <category name="Physics" id="sci-2">
+            <category name="Quantum" id="sci-2-1"/>
+            <category name="Material" id="sci-2-2"/>
+            <category name="Solid State" id="sci-2-3"/>
+            <category name="Photonics" id="sci-2-4"/>
+            <category name="Classical" id="sci-2-5"/>
+            <category name="Electro Magnetism" id="sci-2-6"/>
+        </category>
+    </category>
+    <category name="Computer" id="comp">
+        <category name="Programming" id="comp-1">
+            <category name="Java" id="comp-1-1"/>
+            <category name="Python" id="comp-1-2"/>
+            <category name="C#" id="comp-1-3"/>
+            <category name="Go" id="comp-1-4"/>
+            <category name="JavaScript" id="comp-1-4"/>
+            <category name="WebDesign" id="comp-1-5"/>
+            <category name="CSS" id="comp-1-6"/>
+        </category>
+        <category name="Design" id="comp-2">
+            <category name="figma" id="comp-2-1"/>
+            <category name="Adobe XD" id="comp-2-2"/>
+            <category name="Photo Shop" id="comp-2-3"/>
+        </category>
+    </category >
+    <category name="Math" id="math">
+        <category name="Geometry" id="math-1"/>
+        <category name="Analysis" id="math-2"/>
+        <category name="Calculus" id="math-3"/>
+        <category name="Topology" id="math-4"/>
+        <category name="Differential Equations" id="math-5"/>
+        <category name="Algebra" id="math-6"/>
+    </category>
+    <category name="Gaming" id="game">
+        <category name="Sandbox" id="game-1"/>
+        <category name="RealTime" id="game-2"/>
+        <category name="Shooter" id="game-3">
+            <category name="CSGO" id="game-3-1"/>
+            <category name="BattleField" id="game-3-2"/>
+        </category>
+        <category name="MultyPlayer Online Battle Ground (MOBA)" id="game-4">
+            <category name="PUBG" id="game-4-1"/>
+            <category name="Fortnite" id="game-4-2"/>
+        </category>
+        <category name="Role Playing (RPG, ARPG,...)" id="game-5"/>
+        <category name="Simulation" id="game-6">
+            <category name="MineCraft" id="game-6-1"/>
+            <category name="Sims" id="game-6-2"/>
+        </category>
+        <category name="Action" id="game-7"/>
+        <category name="Puzzle" id="game-8"/>
+        <category name="Arcade" id="game-9"/>
+        <category name="Casual" id="game-10"/>
+    </category>
+    <category name="Cinema" id="cinema">
+        <category name="Action" id="cinema-1"/>
+        <category name="Horror" id="cinema-2"/>
+        <category name="Drama" id="cinema-3"/>
+        <category name="Romance" id="cinema-4"/>
+        <category name="Sci-Fi" id="cinema-5"/>
+        <category name="Western" id="cinema-6"/>
+        <category name="Comedy" id="cinema-7"/>
+    </category>
+    <category name="Book" id="book">
+        <category name="Fantasy" id="book-1"/>
+        <category name="Crime" id="book-2"/>
+        <category name="Horror" id="book-3"/>
+        <category name="Journal" id="book-4"/>
+    </category>
+    <category name="Art" id="art">
+        <category name="Poetry" id="art-1"/>
+        <category name="Painting" id="art-2"/>
+        <category name="Sculpture" id="art-3"/>
+        <category name="Sketching" id="art-4"/>
+    </category>
+</root>
