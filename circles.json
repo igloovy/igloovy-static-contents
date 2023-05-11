@@ -1,5 +1,12 @@
 [
   {
+    "tiles": [
+      {
+        "r": 0,
+        "s": 0,
+        "q": 0
+      }
+    ],
     "name": "igloo",
     "description": "Welcome to Igloovy, the virtual igloo where education meets entertainment! Our small team is excited to invite you to join our metaverse, where you can interact with others and pursue your hobbies in a fun and engaging way. Whether you're interested in music, art, gaming, or anything in between, Igloovy is the perfect place to connect with like-minded people and explore new ideas. Come join us and make your mark on our growing community!",
     "image": "/assets/igloo-icon.png",
@@ -15,6 +22,13 @@
     ]
   },
   {
+    "tiles": [
+      {
+        "r": 1,
+        "s": 0,
+        "q": -1
+      }
+    ],
     "name": "Music Club",
     "description": "Welcome to the Music Club, where you can share your love of music with others! Whether you're a musician or just a fan, this is the perfect place to connect with others who share your passion. Join us for discussions, performances, and more!",
     "image": "/assets/music-club-logo.jpg",
@@ -29,6 +43,13 @@
     ]
   },
   {
+    "tiles": [
+      {
+        "r": 1,
+        "s": -1,
+        "q": 0
+      }
+    ],
     "name": "Art Society",
     "description": "Welcome to the Art Society, where creativity thrives! Whether you're an artist, a collector, or just someone who appreciates beauty, this is the place for you. Join us for discussions, critiques, and events that celebrate all forms of art.",
     "image": "/assets/art-society-logo.png",
@@ -43,6 +64,13 @@
     ]
   },
   {
+    "tiles": [
+      {
+        "r": -1,
+        "s": 2,
+        "q": -1
+      }
+    ],
     "name": "Gaming Guild",
     "description": "Welcome to the Gaming Guild, where gamers unite! Whether you're into console, PC, or mobile gaming, this is the perfect place to connect with others who share your love of gaming. Join us for game nights, discussions, and more!",
     "image": "/assets/gaming-guild-logo.jpg",
